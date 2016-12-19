@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Next Episode</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Configurations</string>
+    <string name="my_series">Mes séries</string>
+    <string name="search_series">Rechercher une série</string>
+    <string name="options">Notifications</string>
+    <string name="settings">Configurations</string>
+    <string name="error_input_series">Vous devez renseinger un titre de série dans le champ de recherche !</string>
+    <string name="add_serie_done">" a bien été ajouter à votre liste de séries suivis !"</string>
+    <string name="see">Voir</string>
+    <string name="add">Ajouter</string>
+    <string name="cancel">Annuler</string>
+    <string name="when">Il est quand le pochain épisode ?</string>
+    <string name="errorInsert">Une erreur est survenue</string>
+    <string name="unfollow">Ne plus suivre</string>
+    <string name="following">Vous suivez déjà cette série</string>
+    <string name="informations">Voir</string>
+    <string name="notif_info_2">Recevoir une notification le jour d\'après la sortie de l\'épisode.</string>
+    <string name="notif_info_1">Recevoir une notification le jour de la sortie de l\'épisode.</string>
+    <string name="notif_info_3">Recevoir une notification chaque jour après la sortie de l\'épisode jusqu\'à ce que je le marque comme vu.</string>
+    <string name="removed">" a bien été supprimer de votre liste de séries."</string>
+    <string name="no_data_available">Your list is empty</string>
+    <string name="no_data">Your list is empty</string>
+    <string name="empty_list">Liste vide</string>
+    <string name="empty_message">Votre liste de séries est vide. Vous pouvez en ajouter depuis Rechercher une série dans le menu.</string>
+    <string name="latest">Dernier épisode :</string>
+    <string name="next">Prochein épisode :</string>
+    <string name="no_date">Aucune date connue</string>
+    <string name="series_you_re_following">Les séries que vous suivez :</string>
+    <string name="friday">Vendredi</string>
+    <string name="monday">Lundi</string>
+    <string name="saturday">Samedi</string>
+    <string name="sunday">Dimanche</string>
+    <string name="thursday">Jeudi</string>
+    <string name="tuesday">Mardi</string>
+    <string name="wednesday">Mercredi</string>
+    <string name="your_next_episodes">Vos prochains épisodes :</string>
+    <string name="episode_today">Un épisode va sortir aujourd\'hui !</string>
+    <string name="no_episode_today">Aucun épisode aujourd\'hui :(</string>
+    <string name="episode_yesterday">Un épisode est sorti hier !</string>
+</resources>

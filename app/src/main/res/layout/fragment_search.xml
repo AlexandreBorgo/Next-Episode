@@ -1,0 +1,43 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.alexandre.inf3041_borgo.com.example.alexandre.inf3041_borgo.SearchFragment">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="20pt"
+        android:id="@+id/edit"
+        android:hint="@string/search_series"
+        android:textColor="#000000"
+        android:background="#ffffff"
+        android:textColorHint="#afafaf"
+        android:textCursorDrawable="@null"
+        android:singleLine="true"
+        android:imeOptions="actionGo"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="10dp"
+        android:layout_toLeftOf="@+id/searchButton"
+        android:layout_toStartOf="@+id/searchButton" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@android:drawable/ic_search_category_default"
+        android:id="@+id/searchButton"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/rv_series"
+        android:layout_below="@+id/searchButton">
+
+    </android.support.v7.widget.RecyclerView>
+
+</RelativeLayout>

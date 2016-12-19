@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Next Episode</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="my_series">My series</string>
+    <string name="search_series">Search series</string>
+    <string name="options">Notifications settings</string>
+    <string name="settings">Settings</string>
+    <string name="error_input_series">You need to enter a title</string>
+    <string name="add_serie_done">" has been added to your list"</string>
+    <string name="see">See</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="when">When is the next episode ?</string>
+    <string name="errorInsert">Error</string>
+    <string name="unfollow">Unfollow</string>
+    <string name="following">You\'re already following this serie</string>
+    <string name="informations">See</string>
+    <string name="notif_info_2">Receive a notification the day after the episode\'s release.</string>
+    <string name="notif_info_1">Receive a notifications on the day of the episode\'s release.</string>
+    <string name="notif_info_3">Receive a notification everyday after the episode\'s release until I\'ll note it as seen.</string>
+    <string name="removed">" has been removed from your list."</string>
+    <string name="no_data_available">Your list is empty</string>
+    <string name="no_data">Your list is empty</string>
+    <string name="empty_list">Empty list</string>
+    <string name="empty_message">Your list of following series is empty. You can add series from the menu Search series.</string>
+    <string name="next">Next episode :</string>
+    <string name="latest">Latest episode :</string>
+    <string name="no_date">No known date</string>
+    <string name="your_next_episodes">Your next episodes :</string>
+    <string name="series_you_re_following">Series you\'re following :</string>
+    <string name="sunday">Sunday</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="episode_today">An episode is available !</string>
+    <string name="no_episode_today">No episode today :(</string>
+    <string name="episode_yesterday">An episode is available since yesterday !</string>
+</resources>
